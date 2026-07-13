@@ -4,7 +4,7 @@
 - Frontend with HTML, CSS, and JavaScript.
 - Not to use React.js for this project
 - Backend with Node.js and Express.js
-- Database on MongoDB Atlas, schema models have been provided in the root directory
+- Database ong MongoDB Atlas, schema models have been provided in the root directory
 
 ### Business context
 - read the my-ecommerce-business.md file
