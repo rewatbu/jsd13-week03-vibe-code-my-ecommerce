@@ -1,0 +1,11 @@
+{
+    "name": String,
+    "description": String,
+    "origin": String,
+    "roastLevel": String,
+    "weight": number,
+    "unit": string,
+    "price": number,
+    "imageUrl": String,
+    "isActive": Boolean
+}

@@ -1,0 +1,8 @@
+{
+    "firstName": String,
+    "lastName": String,
+    "email": String,
+    "password": "...",
+    "phone": String,
+    "role": String
+}

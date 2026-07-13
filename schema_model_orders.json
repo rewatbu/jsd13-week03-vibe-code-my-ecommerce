@@ -1,0 +1,24 @@
+{
+    "customer": ObjectId,
+    "items": [{
+            "product": ObjectId,
+            "productName": String,
+            "unitPrice": Number,
+            "quantity": Number,
+            "subtotal": Number
+        }]
+    "orderDate": Timestamp,
+    "status": String
+    "totalAmount": Number,
+    "shippingFee": Number,
+    "paymentMethod": String,
+    "paymentStatus": String,
+    "shippingAddress": {
+        "name": Sstring,
+        "phone": String,
+        "address": String,
+        "district": String,
+        "province": String,
+        "postalCode": Sring,
+    }
+}

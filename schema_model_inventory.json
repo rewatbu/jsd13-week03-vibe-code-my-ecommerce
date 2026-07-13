@@ -1,0 +1,7 @@
+{
+    "product": ObjectId,
+    "quantity": Number,
+    "minimumStock": Number,
+    "maximumStock": Number,
+    "lastUpdated": Timestamp
+}
